@@ -27,14 +27,14 @@ void setup() {
   circleColors[0] = color(255, 0, 0);  // Red
   circleColors[1] = color(165, 42, 42); // Brown
   circleColors[2] = color(0, 255, 255); // Turquoise
-  circleColors[3] = color(255, 165, 0); // Orange
+  circleColors[3] = color(8, 28, 156); // Cobalt blue
   circleColors[4] = color(0, 128, 0); // Green
   circleColors[5] = color(192, 192, 192); // Mixed grey/white
   circleColors[6] = color(0, 0, 0); // Mixed white/black
   circleColors[7] = color(128, 0, 0); // Burgundy Red
   circleColors[8] = color(0, 0, 255); // Blue
-  circleColors[9] = color(0, 0, 255); // Blue
-  circleColors[10] = color(0, 128, 0); // Green
+  circleColors[9] = color(0, 0, 0); // Black
+  circleColors[10] = color(128, 60, 164); // Purple
   circleColors[11] = color(255, 165, 0); // Orange
   circleColors[12] = color(0, 255, 255); // Turquoise
   circleColors[13] = color(255, 165, 0); // Orange
